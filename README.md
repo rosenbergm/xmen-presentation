@@ -1,11 +1,5 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Article summary – Lipid Nanoparticles for Broad-Spectrum Nucleic Acid Delivery
 
-To start the slide show:
+This presentation (in Czech) summarizes the most important content of the [article](https://doi.org/10.1002/adfm.202101391), which was posted by the very smart guys and gals over at the Institute of Organic Chemistry and Biochemistry ([IOCB](iocb.cz)) in Prague, whom I admire very much.
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+> Hejdankova, Z., Vanek, V., Sedlak, F., Prochazka, J., Diederichs, A., Kereïche, S., Novotna, B., Budesinsky, M., Birkus, G., Grantz, K., Cigler, P., Lipid Nanoparticles for Broad-Spectrum Nucleic Acid Delivery. Adv. Funct. Mater. 2021, 2101391. https://doi.org/10.1002/adfm.202101391
